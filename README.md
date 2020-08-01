@@ -1,2 +1,2 @@
 # Chat-example
-Aplicação para estudo de chats utliziando NodeJs e Socket.io
+Aplicação para estudo de chats utilizando NodeJs e Socket.io
