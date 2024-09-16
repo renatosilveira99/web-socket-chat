@@ -31,7 +31,7 @@
 
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/renatosilveira99/web-socket-chat
    ```
 
 2. **Install the dependencies**:
